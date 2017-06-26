@@ -1,1 +1,6 @@
-body{margin:0px; background: #f0f0f0;}
+body{margin:0px; background: #f0f0f0; font-family: arial;}
+a{text-decoration: none;}
+
+.top{ background: white; overflow: auto; }
+.top h1{margin: 0px; float: left;}
+.top h1 a{padding: 20px; display: block;}
