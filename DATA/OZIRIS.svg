@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -17,7 +18,31 @@
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="OZIRIS.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1302">
+      <stop
+         style="stop-color:#fff557;stop-opacity:1"
+         offset="0"
+         id="stop1298" />
+      <stop
+         style="stop-color:#faba00;stop-opacity:1"
+         offset="1"
+         id="stop1300" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1302"
+       id="radialGradient1304"
+       cx="-1054.9285"
+       cy="1746.0168"
+       fx="-1054.9285"
+       fy="1746.0168"
+       r="198.3409"
+       gradientTransform="matrix(0.14086391,-0.00108491,9.5786561e-4,0.1243684,-1031.7743,1579.0093)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.35"
-     inkscape:cx="1352.0651"
-     inkscape:cy="1187.3142"
+     inkscape:zoom="1.4760854"
+     inkscape:cx="-4468.3992"
+     inkscape:cy="-5654.5913"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -345,62 +370,7 @@
            width="757.14288"
            id="rect4699" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courgette;-inkscape-font-specification:Courgette"
-         id="flowPara4703">Group</flowPara></flowRoot>    <g
-       id="g4721"
-       transform="translate(1039.9547,-32.740517)">
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 343.20239,96.672618 c 65.18676,-0.525667 116.97146,24.485372 117.73956,51.404762 l 0.18899,49.89286 C 453.29962,160.38921 411.32227,96.266586 343.20239,96.672618 Z"
-         id="path4717"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path4719"
-         d="M 579.05949,96.672618 C 513.87273,96.146951 462.08803,121.15799 461.31993,148.07738 l -0.18899,49.89286 C 468.96226,160.38921 510.93961,96.266586 579.05949,96.672618 Z"
-         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-    <rect
-       style="opacity:1;fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.13044697"
-       id="rect4723"
-       width="226.12025"
-       height="66.258995"
-       x="1651.7747"
-       y="476.04959" />
-    <flowRoot
-       transform="matrix(0.87910497,0,0,0.87910497,1738.7922,1.8631528)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot4673-5"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4669-8"><rect
-           y="173.94826"
-           x="-80"
-           height="508.57144"
-           width="757.14288"
-           id="rect4667-3" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courgette;-inkscape-font-specification:Courgette"
-         id="flowPara4671-7">Group</flowPara></flowRoot>    <path
-       style="fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.21848166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1843.8042,241.38986 11.3209,81.30759 8.1097,-81.60472 z"
-       id="path4761"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4763"
-       d="m 1803.3966,258.95383 51.7285,63.74362 -35.2502,-74.04408 z"
-       style="fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.21848166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       style="fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.21848166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1778.1602,294.14047 76.9649,28.55698 -68.0197,-45.80861 z"
-       id="path4765"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4767"
-       d="m 1778.1602,294.14047 76.9649,28.55698 -68.0197,-45.80861 z"
-       style="fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.21848166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <rect
+         id="flowPara4703">Group</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect4769"
        width="294.64929"
@@ -916,11 +886,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5129"
-       d="m 2551.4259,1848.6394 c 188.8904,-16.6157 118.5952,70.604 294.6493,62.4417 v 119.6616 h -294.6493 z"
+       d="m -920.4144,639.98471 c 188.8904,-16.6157 118.5952,70.604 294.6493,62.4417 v 119.6616 h -294.6493 z"
        style="opacity:1;fill:#ffbd00;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
     <g
        id="g5145"
-       transform="translate(1626.6826,254.604)">
+       transform="translate(-1845.1577,-954.05069)">
       <path
          inkscape:connector-curvature="0"
          id="path5131"
@@ -966,12 +936,12 @@
     <circle
        style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.18092184"
        id="circle5147"
-       cx="2630.1003"
-       cy="1946.8655"
+       cx="-841.73999"
+       cy="738.21082"
        r="35.820709" />
     <path
        style="opacity:1;fill:#ff5400;fill-opacity:1;stroke:none;stroke-width:0.18369929"
-       d="m 2551.4259,1941.5936 c 183.4941,65.9461 177.4679,-50.1403 294.6493,-30.5125 v 155.8658 h -294.6493 z"
+       d="m -920.4144,732.93891 c 183.4941,65.9461 177.4679,-50.1403 294.6493,-30.5125 v 155.8658 h -294.6493 z"
        id="path5149"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -979,11 +949,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5151"
-       d="m 2551.4259,1988.6894 c 187.015,52.8683 177.4679,-97.2361 294.6493,-77.6083 v 155.8658 h -294.6493 z"
+       d="m -920.4144,780.03471 c 187.015,52.8683 177.4679,-97.2361 294.6493,-77.6083 v 155.8658 h -294.6493 z"
        style="opacity:1;fill:#ec4e00;fill-opacity:1;stroke:none;stroke-width:0.18369929" />
     <path
        style="opacity:1;fill:#c94200;fill-opacity:1;stroke:none;stroke-width:0.18369929"
-       d="m 2551.4259,2035.7853 c 199.0869,51.3593 177.4679,-144.332 294.6493,-124.7042 v 155.8658 h -294.6493 z"
+       d="m -920.4144,827.13061 c 199.0869,51.3593 177.4679,-144.332 294.6493,-124.7042 v 155.8658 h -294.6493 z"
        id="path5153"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -991,7 +961,7 @@
        xml:space="preserve"
        id="flowRoot5161"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(2.3060907,0,0,2.3060907,2753.9921,1561.1524)"><flowRegion
+       transform="matrix(2.3060907,0,0,2.3060907,-717.8482,352.49771)"><flowRegion
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ffffff;fill-opacity:1"
          id="flowRegion5157"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ffffff;fill-opacity:1"
@@ -1006,23 +976,23 @@
        id="rect5163"
        width="294.64941"
        height="57.6418"
-       x="2551.4258"
-       y="2066.947"
+       x="-920.41455"
+       y="858.29236"
        ry="0" />
     <flowRoot
-       transform="matrix(1.1500077,0,0,1.1500077,2666.4476,1868.8251)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';letter-spacing:0px;word-spacing:0px;fill:#ffe100;fill-opacity:1;stroke:none;"
+       transform="matrix(1.1500077,0,0,1.1500077,-805.3927,660.17041)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';letter-spacing:0px;word-spacing:0px;fill:#ffe100;fill-opacity:1;stroke:none"
        id="flowRoot5171"
        xml:space="preserve"><flowRegion
          id="flowRegion5167"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ffe100;fill-opacity:1;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ffe100;fill-opacity:1"><rect
            y="173.94826"
            x="-80"
            height="508.57144"
            width="757.14288"
            id="rect5165"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ffe100;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Archivo Black';-inkscape-font-specification:'Archivo Black, ';fill:#ffe100;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ffe100;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Archivo Black';-inkscape-font-specification:'Archivo Black, ';fill:#ffe100;fill-opacity:1"
          id="flowPara5169">G R O U P </flowPara></flowRoot>    <path
        style="opacity:1;fill:#ffe800;fill-opacity:1;stroke:none;stroke-width:8.31847191;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5239-4"
@@ -1243,19 +1213,19 @@
        d="m 1440.5827,4652.9039 c 978.9276,8.0268 744.691,-366.419 1627.6714,-357.807 l -1e-4,360.1455 c -561.9802,-219.2891 -608.8106,204.3175 -1627.6713,-2.3385 z"
        style="fill:#ff9300;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.35020582,0,0,0.35020582,2576.0045,2076.6844)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       transform="matrix(0.35020582,0,0,0.35020582,-895.8358,868.02971)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot5431-5"
        xml:space="preserve"><flowRegion
          id="flowRegion5427-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            y="173.94826"
            x="-80"
            height="464.93393"
            width="1015.1735"
            id="rect5425-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.52378201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara5429-9">N é g o c e    I m m o b i l i e r     I m p o r t - E x p o r t</flowPara></flowRoot>    <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ebebeb;stroke-width:0.19030911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5489"
@@ -2558,5 +2528,15 @@
            id="rect5165-8-3-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gloria Hallelujah';-inkscape-font-specification:'Gloria Hallelujah';fill:#ff9300;fill-opacity:1;" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Archivo Black';-inkscape-font-specification:'Archivo Black, ';fill:#ff9300;fill-opacity:1;"
-         id="flowPara5169-2-3-8">G R O U P </flowPara></flowRoot>  </g>
+         id="flowPara5169-2-3-8">G R O U P </flowPara></flowRoot>    <rect
+       id="rect491"
+       width="60.226063"
+       height="24.954712"
+       x="-1208.8163"
+       y="1784.8257"
+       style="fill:url(#radialGradient1304);fill-opacity:1;stroke-width:0.01095998;stroke:none"
+       inkscape:export-filename="C:\Program Files (x86)\EasyPHP-12.1\www\OZIRIS\img\slide.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
 </svg>

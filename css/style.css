@@ -1,9 +1,20 @@
-body{margin:0px; background: #f0f0f0; font-family: arial;}
+@font-face {
+	font-family: 'Questrial';
+	src: url('../fonts/Questrial-Regular.ttf');
+	format('truetype');
+}
+
+body{margin:0px; background: #f0f0f0; font-family: arial; font-family: 'Questrial';}
 a{text-decoration: none; text-decoration: none; }
 
 .top{ background: #ff5400; overflow: auto; }
 .top h1{margin: 0px; float: left;}
-.top h1 a{padding: 20px; display: block; float: left; font-size: 20px; color: white;}
+.top h1 a{padding: 18px; display: block; float: left; font-size: 20px; color: white;}
 
 .menu{float: right; overflow: auto;}
 .menu a{ display: block; float: left; padding: 20px; color: white;}
+
+.slide{padding: 20px;}
+.slide .slidein{background: white; height: 250px;}
+
+
